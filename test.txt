@@ -56,7 +56,7 @@ https://sport5-lh.akamaihd.net/i/radiolivev_0@698733/index_1_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hebrew" tvg-logo="https://www.ynet.co.il/images/ynet_defualt.png" tvg-country="IL" tvg-url="" group-title="",Ynet Live
 https://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="rus" tvg-logo="https://upload.wikimedia.org/wikipedia/he/0/0b/Arutz_9_Logo.png" tvg-country="IL" tvg-url="" group-title="",Channel 9 (update to last app ver to get it work)
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="rus" tvg-logo="https://upload.wikimedia.org/wikipedia/he/0/0b/Arutz_9_Logo.png" tvg-country="IL" tvg-url="" group-title="",Channel 9
 https://channel9
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="rus" tvg-logo="https://upload.wikimedia.org/wikipedia/he/0/0b/Arutz_9_Logo.png" tvg-country="IL" tvg-url="" group-title="",Channel 9 backup
