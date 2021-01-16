@@ -12,10 +12,10 @@ https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hebrew" tvg-logo="https://i.imgur.com/NmnXn2z.jpg" tvg-country="IL" tvg-url="" group-title="News",Channel 2 News
 https://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
 
-#EXTINF:-1 tvg-id="12" tvg-name="12" seekable="true" tvg-language="Hebrew" tvg-logo="https://i.ibb.co/qBKNrv5/keshet.png" tvg-country="IL" tvg-url="" group-title="Religious",קשת 12 HD (will be deleted next update)
+#EXTINF:-1 tvg-id="12" tvg-name="12" seekable="true" tvg-language="Hebrew" tvg-logo="https://i.ibb.co/qBKNrv5/keshet.png" tvg-country="IL" tvg-url="" group-title="Religious",(will be deleted next update) קשת 12 HD
 https://www.mako.co.il/mako-vod-live-tv/VOD-6540b8dcb64fd31006.htm
 
-#EXTINF:-1 tvg-id="12" tvg-name="12" tvg-language="Hebrew" tvg-logo="https://i.ibb.co/qBKNrv5/keshet.png" tvg-country="IL" tvg-url="" group-title="Religious",קשת 12 SD (will be deleted next update)
+#EXTINF:-1 tvg-id="12" tvg-name="12" tvg-language="Hebrew" tvg-logo="https://i.ibb.co/qBKNrv5/keshet.png" tvg-country="IL" tvg-url="" group-title="Religious",(will be deleted next update) קשת 12 SD
 https://www.mako.co.il/mako-vod-live-tv/VOD-6540b8dcb64fd31006.htm?[low]
 
 #EXTINF:-1 tvg-id="12" tvg-name="12" seekable="true" tvg-language="Hebrew" tvg-logo="https://i.ibb.co/qBKNrv5/keshet.png" tvg-country="IL" tvg-url="" group-title="Religious",Keshet 12 HD (need last app ver)
