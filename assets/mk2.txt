@@ -1,0 +1,70 @@
+{
+    "channels": [
+        {
+            "action": 0,
+            "url": "http://82.80.192.30/shoppingil_ShoppingIL21TVRepeat/_definst_/smil:ShoppingIL21TV.smil/playlist.m3u8",
+            "img": "https://upload.wikimedia.org/wikipedia/he/b/b9/סמליל_ערוץ_הקניות.jpg",
+            "name": "ערוץ הקניות"
+        },
+        {
+            "action": 0,
+            "url": "https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8",
+            "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/2880px-KanHinuchit.svg.png",
+            "name": "החינוכית"
+        },
+        {
+            "action": 0,
+            "url": "https://contact.gostreaming.tv/Knesset/myStream/playlist.m3u8",
+            "img": "https://i.ibb.co/zP5vjLD/knesset.png",
+            "name": "KNEESET"
+        },
+        {
+            "action": 0,
+            "url": "https://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8",
+            "img": "https://i.imgur.com/NmnXn2z.jpg",
+            "name": "Channel 2 News"
+        },
+        {
+            "action": 1,
+            "url": "https://keshethlslive-i.akamaihd.net/hls/live/512033/CH2LIVE_HIGH/index.m3u8",
+            "img": "https://i.ibb.co/qBKNrv5/keshet.png",
+            "name": "קשת 12 HD"
+        },
+        {
+            "action": 1,
+            "url": "https://keshethlslive-i.akamaihd.net/hls/live/512035/CH2LIVE_LOW/index.m3u8",
+            "img": "https://i.ibb.co/qBKNrv5/keshet.png",
+            "name": "קשת 12 SD"
+        },
+        {
+            "action": 1,
+            "url": "https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/master.m3u8?b=200-2500&",
+            "img": "https://i.imgur.com/lBbbPI4.jpg",
+            "name": "Music 24"
+        },
+        {
+            "action": 0,
+            "url": "https://dvr.ch20-cdnwiz.com/mobilehls/dvr_high/index.m3u8",
+            "img": "https://i.ibb.co/wWtTnn6/20.png",
+            "name": "20"
+        },
+        {
+            "action": 0,
+            "url": "https://kanlivep2event-i.akamaihd.net/hls/live/747610/747610/source1_2.5k/chunklist.m3u8",
+            "img": "https://www.kan.org.il/images/logo_ogImageKan.jpg",
+            "name": "Kan 11"
+        },
+        {
+            "action": 0,
+            "url": "https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/master.m3u8",
+            "img": "https://www.makan.org.il/images/logo_makan_33.png",
+            "name": "Makan 33 מכאן"
+        },
+        {
+            "action": 0,
+            "url": "https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_1.m3u8",
+            "img": "https://media.reshet.tv/image/upload/v1505910155/logo-final-13-reshet-red_a5lwvy.jpg",
+            "name": "Channel 13 Reshet"
+        }
+    ]
+}
