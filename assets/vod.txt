@@ -33,7 +33,7 @@
         {
             "id": 1,
             "img": "https://i.ibb.co/qBKNrv5/keshet.png",
-            "showtv": "false",
+            "showtv": "true",
             "works": "true"
         }
     ]
