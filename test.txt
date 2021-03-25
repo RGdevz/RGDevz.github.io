@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="IL: shopping channel" tvg-language="Hebrew" tvg-logo="https://i.stack.imgur.com/Vkq2a.png" tvg-country="IL" tvg-url="" group-title="Shop",הודעה: האפליקציה סומנה על ידי גוגל ולכן לא תוכל יותר להתעדכן דרך חנות הגוגל פלי. ניתן להוריד את הגירסא האחרונה בלינק rebrand.ly/g8lnm95 צריך למחוק את האפליקיצה לפני העידכון.
+#EXTINF:-1 tvg-id="" tvg-name="IL: shopping channel" tvg-language="Hebrew" tvg-logo="https://i.stack.imgur.com/Vkq2a.png" tvg-country="IL" tvg-url="" group-title="Shop",הודעה: האפליקציה סומנה על ידי גוגל ולכן לא תוכל יותר להתעדכן דרך חנות הגוגל פלי. ניתן להוריד את הגירסא האחרונה בלינק rebrand.ly/g8lnm95 צריך למחוק את האפליקציה לפני העידכון.
 http://rip
 
 #EXTINF:-1 tvg-id="Shopping Channel-IS" tvg-name="IL: shopping channel" tvg-language="Hebrew" tvg-logo="https://upload.wikimedia.org/wikipedia/he/b/b9/סמליל_ערוץ_הקניות.jpg" tvg-country="IL" tvg-url="" group-title="Shop",ch 21 ערוץ הקניות
@@ -70,6 +70,3 @@ https://channel9b
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/OzjftEl.png" tvg-country="IL" tvg-url="" group-title="",هلا تي في
 https://gstream4.panet.co.il/edge/halaTV/chunks.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hebrew" tvg-logo="https://mizbala.com/_uploads/images/2012/01/hapachHagadol.jpg" tvg-country="IL" tvg-url="" group-title="",האח הגדול
-https://d2lckchr9cxrss.cloudfront.net/out/v1/c73af7694cce4767888c08a7534b503c/index.m3u8
