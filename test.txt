@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="IL: shopping channel" tvg-language="Hebrew" tvg-logo="https://i.stack.imgur.com/Vkq2a.png" tvg-country="IL" tvg-url="" group-title="Shop",לעדכון rebrand.ly/g8lnm95
+#EXTINF:-1 tvg-id="" tvg-name="IL: shopping channel" tvg-language="Hebrew" tvg-logo="https://i.stack.imgur.com/Vkq2a.png" tvg-country="IL" tvg-url="" group-title="Shop",לעדכון הכנסו ללינק https://rebrand.ly/isratv-app
 http://rip
 
 #EXTINF:-1 tvg-id="Shopping Channel-IS" tvg-name="IL: shopping channel" tvg-language="Hebrew" tvg-logo="https://upload.wikimedia.org/wikipedia/he/b/b9/סמליל_ערוץ_הקניות.jpg" tvg-country="IL" tvg-url="" group-title="Shop",ch 21 ערוץ הקניות
